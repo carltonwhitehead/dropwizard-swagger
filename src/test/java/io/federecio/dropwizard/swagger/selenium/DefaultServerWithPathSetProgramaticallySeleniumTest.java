@@ -29,6 +29,6 @@ public class DefaultServerWithPathSetProgramaticallySeleniumTest extends Seleniu
 
     @Override
     protected String getSwaggerUrl() {
-        return "http://localhost:33333/api/swagger";
+        return "http://localhost:33333/swagger";
     }
 }
